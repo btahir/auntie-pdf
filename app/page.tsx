@@ -7,12 +7,12 @@ export default function HomePage() {
       {/* Sponsorship Banner */}
       <div className='w-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white py-2 text-center'>
         <a
-          href='https://www.shortsgenerator.com/'
+          href='https://www.you-tldr.com/'
           target='_blank'
           rel='noopener noreferrer'
           className='hover:underline font-medium'
         >
-          Sponsored by Shorts Generator - Create viral short videos in minutes!
+          Sponsored by You-TLDR - Get the TLDR of any YouTube video in seconds!
         </a>
       </div>
 

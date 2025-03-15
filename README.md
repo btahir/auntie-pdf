@@ -74,4 +74,4 @@ If you're interested in following all the random projects I'm working on, you ca
 
 ## Sponsored by
 
-[Shorts Generator](https://www.shortsgenerator.com/) - Create viral short videos in minutes!
+[You-TLDR](https://www.you-tldr.com/) - Get the TLDR of any YouTube video in seconds!
