@@ -54,10 +54,6 @@ This app is deployed on Vercel and has a file upload limit of 4.5MB due to Verce
 
 To bypass this limitation, we can use services like UploadThing, which upload files directly to your storage (or theirs) using a presigned URL, or implement a similar solution ourselves. I’m still undecided on whether to add this layer.
 
-## Demo
-
-Try it out at: [Auntie PDF](https://auntiepdf.com)
-
 ## License
 
 [MIT](https://github.com/btahir/auntie-pdf/blob/main/LICENSE)
